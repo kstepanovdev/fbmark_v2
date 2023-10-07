@@ -5,6 +5,9 @@ This is TUI bookmark manager written with ratatui.  It could be useful in case y
 
 ![2023-10-07_19-35-10](https://github.com/kstepanovdev/fbmark_v2/assets/13778974/a991cbcf-e82e-48c5-ad51-f6a1761e4906)
 
+#### Run:
+Provide the app with the DATABASE_URL env variable (or .env file) with the full path to the SQLite database file.
+
 ##### Known problems:
 - [ ] The app isn't fully async.
 - [ ] The app allows multiple tags selection (even on the same ones)
