@@ -1,6 +1,6 @@
 # fbmark_v2
 
-This is TUI bookmark manager backed with [ratatui](https://crates.io/crates/ratatui).
+This is TUI bookmark manager baked with [ratatui](https://crates.io/crates/ratatui).
 This is TUI bookmark manager written with ratatui.  It could be useful in case you have an account in Tagpacker. It provides you with a fuzzy search in bookmark's names and URLs + search via tags and their combination. 
 
 ![2023-10-07_19-35-10](https://github.com/kstepanovdev/fbmark_v2/assets/13778974/a991cbcf-e82e-48c5-ad51-f6a1761e4906)
